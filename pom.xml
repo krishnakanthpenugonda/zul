@@ -82,5 +82,4 @@
 		</repository>
 	</repositories>
 
-	<finalname>docker-spring-boot</finalname>
 </project>
